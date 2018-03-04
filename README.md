@@ -1,14 +1,6 @@
 # Quiz-app
 
-PART 0 - Prerequisites </b>  
-
-STEP 1: Download android studio and make sure you have the right tools needed as mentioned below:
-![Alt text](https://d2mxuefqeaa7sj.cloudfront.net/s_6E04D0395F3E9633E1AA8A9CFF9F8EA297AF4AA1392D072366B2CFB9DE43A3C7_1500610476380_Screen+Shot+2017-07-20+at+3.34.11+PM.png "Optional Title") 
-
-![Alt text](https://blog.pusher.com/wp-content/uploads/2017/08/creating-ride-booking-app-react-native-pusher-sdk-tools.png
- "Optional Title")  
- 
- STEP 2: <b>Installing dependencies</b> </br>
+PART 0 - Installing dependencies</b> </br>
 
 WINDOWS USER: </br>
 a. Open an Administrator Command Prompt (right click Command Prompt and select "Run as Administrator"), then run the following command: 
