@@ -14,7 +14,7 @@ b. Install the React Native command line interface: <br/>
 
 a. Run the following commands in a Terminal after installing Homebrew: <br/>
 
-```brew install node```
+```brew install node``` <br/>
 ```brew install watchman```
 
 b. Install the React Native command line interface: <br/>
