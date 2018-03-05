@@ -1,7 +1,7 @@
 # Quiz-app
 ## PART 0 - Installing dependencies 
 
-<b/ >WINDOWS USER: <b> <br/>
+**WINDOWS USER:** <br/>
 a. Open an Administrator Command Prompt (right click Command Prompt and select "Run as Administrator"), then run the following command: <br/>
 
 ```choco install -y nodejs.install python2 jdk8``` 
@@ -10,7 +10,7 @@ b. Install the React Native command line interface: <br/>
 
 ```npm install -g react-native-cli```
 
-<b/>MAC OS USERS:  <b>
+**MAC OS USERS:**  <br/>
 
 a. Run the following commands in a Terminal after installing Homebrew: <br/>
 
